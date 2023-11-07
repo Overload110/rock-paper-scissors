@@ -8,8 +8,8 @@ input[type=radio]:checked + label{
     left: -9999px;
   }
 
-  #result{
-    height: 50px;
+  #result, #rounds{
+    height: 25px;
   }
 
   body{
